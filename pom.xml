@@ -37,7 +37,7 @@
         <toml4j.version>0.7.2</toml4j.version>
         <commons-text.version>1.9</commons-text.version>
         <picocli.version>4.6.1</picocli.version>
-        <graalvm.version>21.1.0</graalvm.version>
+        <graalvm.version>21.2.0</graalvm.version>
         <pebble.version>3.1.5</pebble.version>
         <reflections.version>0.9.11</reflections.version>
         <system-lambda.version>1.2.0</system-lambda.version>
